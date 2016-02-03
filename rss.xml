@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Full Spectrum Life]]></title>
         <description><![CDATA[Full Spectrum Life]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/randy-thomas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 17:35:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Feb 2016 17:52:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/randy-thomas/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[#Art finished! I have been working on this drawing tonight and the additions just didn't feel right. So I reverted it back to where it was last night. Yay for digital drawing! Now I know it is complete. I also know the name, with help from a loved one, meet "Finding a place to land..." When that popped in my head during our discussion I got choked up... So there ya' go. Thank you everyone for chiming in and for your support. I love going through the creative process with you! #ApplePencil #iPadPro #Artsy #Instaart #Abstract #Design #Drawing #GayArtist]]></title>
+            <description><![CDATA[<article><h1>#Art finished! I have been working on this drawing tonight and the additions just didn't feel right. So I reverted it back to where it was last night. Yay for digital drawing! Now I know it is complete. I also know the name, with help from a loved one, meet "Finding a place to land..." When that popped in my head during our discussion I got choked up... So there ya' go. Thank you everyone for chiming in and for your support. I love going through the creative process with you! #ApplePencil #iPadPro #Artsy #Instaart #Abstract #Design #Drawing #GayArtist</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd43b118be3add706877004b1e9d892d74464616.jpg"></article>]]></description>
+            <link>https://www.instagram.com/p/BBMA70snzJ-/?taken-by=rthomasart</link>
+            <guid isPermaLink="false">e760fcb7-79ff-41a1-a0d2-714b7b214040</guid>
+            <pubDate>Wed, 03 Feb 2016 17:52:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome!]]></title>
-            <description><![CDATA[<article><h1>Welcome!</h1><p>First off, thanks for checking out my website! My name is Randy Thomas and I am an artist, writer, and love communication in all of its various forms. Professionally, I am an Online Content & Social Media Manager for a PR company here in central Florida.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fda0f0fb-21a9-4a9d-898a-3f1ab1843035.jpg"></article>]]></description>
-            <link>undefinedwelcome/index.html</link>
+            <description><![CDATA[<article><h1>Welcome!</h1><p>First off, thanks for checking out my website! My name is Randy Thomas and I am an artist, writer, and love communication in all of its various forms. Professionally, I am an Online Content & Social Media Manager for a PR company here in central Florida.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26184e7c05b63f099f90634b769525ac6e9543af.jpg"></article>]]></description>
+            <link>https://thegrid.ai/randy-thomas/welcome/index.html</link>
             <guid isPermaLink="false">ac55fc67-5ffd-428a-97a3-53c95b31ce03</guid>
             <pubDate>Wed, 03 Feb 2016 17:35:43 GMT</pubDate>
         </item>
