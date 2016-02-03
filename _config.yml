@@ -1,0 +1,28 @@
+name: Full Spectrum Life
+favicon: null
+layout_spectrum: 0.0030211457051336765
+typography_spectrum: 0.9924943891819566
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8195005569141358
+  lightness: 0.7905432605184615
+  saturation: 0.813470421358943
+  rhythmicContrast: 0.5988199678249657
+purpose: []
