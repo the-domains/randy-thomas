@@ -1,6 +1,6 @@
 name: Full Spectrum Life
 favicon: null
-layout_spectrum: 0.99601
+layout_spectrum: 0.25758
 typography_spectrum: 0.49681
 title: Living a Full Spectrum Life - Randy Thomas
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0
   lightness: 0.5
   saturation: 1
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.5
 purpose: []
